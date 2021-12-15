@@ -2,7 +2,7 @@
 
 Some captured slides: https://imgur.com/a/j8ivSVX
 
-#Notes
+# Notes
 
 ## ITSA
 - ITC - token classification
