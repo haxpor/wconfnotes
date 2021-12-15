@@ -7,4 +7,4 @@ I do take into consideration of privacy or data that presenter won't be allowed 
 share. So information as shown in this repository is clean.
 
 # License
-GPL-3.0, Wasin Thonkaew
+[GPL-3.0](https://github.com/haxpor/wconfnotes/blob/main/LICENSE), Wasin Thonkaew
