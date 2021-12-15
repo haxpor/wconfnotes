@@ -35,8 +35,9 @@ Some captured slides: https://imgur.com/a/j8ivSVX
 ---
 
 ## KlimaDAO
+- https://www.klimadao.finance/
 - fork of OlympusDAO
-- complicated infrastructure (image)
+- complicated infrastructure (image in imgur url at the top)
 
 ---
 
@@ -62,7 +63,7 @@ in touch directly with the community through discord / social groups / etc
 
 ## Social Betwork
 
-- gampling collateral
+- gambling collateral
 - https://wallfair.io/ -> for better system
 - it needs escrow service which will be implemented internally, involves AMM + Pool
 
